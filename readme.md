@@ -2,10 +2,14 @@
 
 ***
 
-#  📚"Test" 📚
+#   🌈 "Test"🪐
 
 ***
-## This app about magic book. 
+## This app is .............. 
+
+# add information later....
+
+
 You could ask this book about something what worry you.   
 When you touch this book📕, it gives answer for you! 😎.   
 *Good luck and have fun my Friends!*💛
